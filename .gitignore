@@ -4,3 +4,9 @@
 .Ruserdata
 
 /.quarto/
+
+hello-penguins_files/
+
+*.html
+
+.venv/
