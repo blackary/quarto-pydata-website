@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://blackary.github.io/quarto-pydata-website/hello-penguins.html</loc>
+    <lastmod>2023-11-01T14:06:18.656Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blackary.github.io/quarto-pydata-website/example.html</loc>
+    <lastmod>2023-11-01T14:13:40.237Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blackary.github.io/quarto-pydata-website/index.html</loc>
+    <lastmod>2023-11-01T13:58:39.996Z</lastmod>
+  </url>
+  <url>
+    <loc>https://blackary.github.io/quarto-pydata-website/test-project/test-project.html</loc>
+    <lastmod>2023-11-01T13:46:07.585Z</lastmod>
+  </url>
+</urlset>

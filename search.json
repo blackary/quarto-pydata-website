@@ -28,6 +28,13 @@
     "text": "Body mass vs. flipper length\nThe figure below the relationship between body mass and flipper length of penguins.\n\n# from https://github.com/mcnakhaee/palmerpenguins\ng = sns.lmplot(x=\"flipper_length_mm\",\n               y=\"body_mass_g\",\n               hue=\"species\",\n               height=7,\n               data=penguins,\n               palette=['#FF8C00','#159090','#A034F0'])\ng.set_xlabels('Flipper Length')\ng.set_ylabels('Body Mass')\n\n\n\n\n\n\n\nFigure 1: Body mass vs. flipper length of penguins"
   },
   {
+    "objectID": "example.html",
+    "href": "example.html",
+    "title": "More stuff!",
+    "section": "",
+    "text": "Code\nimport pandas as pd\n\n\n\n\nCode\ndf = pd.DataFrame({'a': [1, 2, 3, 4, 5, 6], 'b': [4, 5, 6,7, 8, 9]})\n\n\n\n\nCode\ndf.plot.line(x='a', y='b')\n\n\n\n\n\n\n\nCode\ndf[\"c\"] = df[\"a\"] + df[\"b\"] ** 2\n\n\n\n\nCode\ndf.plot.scatter(x='a', y='c')"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
